@@ -89,4 +89,8 @@
     .title-h1::after {
         right: 22%;
     }
+    
+    .menu-logo img {
+        padding-top: 20px;
+    }
 }
